@@ -1,2 +1,2 @@
-# java-fsd-assisted-practice-1
-Java FSD Assisted Practice Ph-1
+# java-fsd-assisted-practice-projects
+Java FSD Assisted Practice Projects
